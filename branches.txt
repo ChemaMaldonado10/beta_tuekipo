@@ -1,0 +1,13 @@
+There are two branches: 
+
+	- Master branch (Like the Production Branch):
+		Only used for final development.
+	- Development branch: 
+		Where we are going to work the most of the time.
+		You can create other branches that point to the development branch to solve
+		issues temporarly.
+
+For any other branch creation:
+	1. Talk about it with the resposibles.
+	2. Upload this file in order to have everything recorded.
+
