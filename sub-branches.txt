@@ -1,0 +1,9 @@
+This is the branch file for the development branch:
+
+	In this file we are going to record all that as to do with development branch.
+	If you want to create a new subbranch to solve a specific problem:
+
+	- Talk about it with the responsibles
+	- Update this file.
+
+There are no current sub-branches.
